@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\project\deletetemporarygpuinfo\binary_file_study\binary_file_study\main.cpp(44): warning C4700: 초기화되지 않은 'data' 지역 변수를 사용했습니다.
+  Binary_file_study.vcxproj -> C:\Project\DeleteTemporaryGPUInfo\Binary_file_study\Debug\Binary_file_study.exe
+  Binary_file_study.vcxproj -> C:\Project\DeleteTemporaryGPUInfo\Binary_file_study\Debug\Binary_file_study.pdb (Full PDB)
